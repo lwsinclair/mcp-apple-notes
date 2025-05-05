@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rafalwilinski-mcp-apple-notes-badge.png)](https://mseep.ai/app/rafalwilinski-mcp-apple-notes)
+
 # MCP Apple Notes
 
 ![MCP Apple Notes](./images/logo.png)
